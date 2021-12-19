@@ -1,4 +1,4 @@
-![background]()
+![background](image/header.jpeg)
 <h1 align='center'> Hi there 👋, I'm Sarthak</h1>
 
 <h2 align='center'>
