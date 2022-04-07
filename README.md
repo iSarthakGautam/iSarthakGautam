@@ -9,13 +9,12 @@
 
 <p align='center'>
   <a href="https://twitter.com/iSarthakGautam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sarthak-gautam-a00914225/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+  <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
  </p>
  <p align='center'>email:
   </p>
   <p align='center'>
   <a href="mailto:sarthak.gautam2002@gmail.com">sarthak.gautam2002@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:21f1000864@student.onlinedegree.iitm.ac.in">21f1000864@student.onlinedegree.iitm.ac.in</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -24,7 +23,6 @@
 <h4>🔭  I’m currently Studing at ...</h4>
 
 <ul>
-  <li>Indian Institute of Technology Madras</li>
   <li>PGGC 11, Chandigarh</li>
 </ul>
 
@@ -32,7 +30,7 @@
 <h4>Projects</h4>
 
 <ul>
-  <li>FlashCard Web App</li>
+  <li>FlashCard Web App (Full Stack)</li>
   <li>Attendance Web App</li>
 </ul>
 
