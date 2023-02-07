@@ -31,7 +31,7 @@
 
 <ul>
   <li>FlashCard Web App (Full Stack)</li>
-  <li>Attendance Web App</li>
+  <li>QR Web App</li>
 </ul>
 
 
