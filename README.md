@@ -23,7 +23,7 @@
 <h4>🔭  I’m currently Studing at ...</h4>
 
 <ul>
-  <li>PGGC 11, Chandigarh</li>
+  <li>IIT Madras</li>
 </ul>
 
 
