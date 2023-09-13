@@ -32,6 +32,7 @@
 <ul>
   <li>FlashCard Web App (Full Stack)</li>
   <li>QR Web App</li>
+  <li>Placement Portal</li>
 </ul>
 
 
